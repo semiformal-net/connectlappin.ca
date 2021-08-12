@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Updates
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+We will provide updates on information we gather and meetings with the Councillor’s office and Metrolinx. Please contact us if you have anything to share or would like to be a part of future meetings.

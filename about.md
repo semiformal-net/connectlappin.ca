@@ -1,52 +1,16 @@
 ---
 title: "About"
-date: 2018-02-22T17:01:34+07:00
+date: 2021-08-12T17:01:34+07:00
 layout: page
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Metrolinx is currently constructing a rail bridge along the Barrie GO line from Davenport to Bloor in order to increase bi-directional train frequency from Barrie to Union Station. 
 
-## Ne verba patulosque numen vix libet
+When Metrolinx first started socializing the project to the community there was significant opposition. Many residents were concerned about a bridge passing close to homes and the increased noise from trains. Metrolinx communicated the potential benefits of this project, mainly as a way to connect two halves of the community that are currently separated by the train tracks. 
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Metrolinx made commitments to the community to provide a greenway under the rail bridge, introduce public art, and create more pedestrian crossings to connect the community. Slowly, Metrolinx is backing out of most commitments it made to the community, stating that the promises were non-binding. Now they are only including a pedestrian connection at Paton Avenue, and they have taken the pedestrian crossing at Lappin Avenue off the table; both Metrolinx and the City of Toronto claim that they have no intention of expropriating the private property that is required to create the crossing between Lappin Avenue and Antler Street.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Both the City and Metrolinx are failing this community by missing a huge opportunity to improve accessibility. This neighbourhood is quickly developing with many condominiums and mixed use developments proposed near the rail corridor. There are important community amenities on either side of the rail corridor, including parks, elementary schools, the future Perth/Dupont library and the Wallace-Emerson Recreation Centre (soon to be moved further west to Emerson Avenue). Metrolinx wants to leave it up to businesses to create these connections. We think our public agencies should be responsible for providing for the public good. 
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+The cost of expropriating land to create a pedestrian crossing is small compared to the huge price tag of a rail bridge. When Metrolinx decides to splurge on subways in some neighbourhoods, while a pedestrian crossing is too costly in others, it’s hard not to question whether Metrolinx or the City of Toronto understands good city building. We cannot let this opportunity pass us by to improve connectivity and create safe routes to community amenities and local businesses.

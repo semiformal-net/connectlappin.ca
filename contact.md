@@ -5,9 +5,9 @@ layout: contact
 
 We would love for you to get involved. The best thing you can do is contact our local representatives and Metrolinx to let them know that creating a pedestrian crossing at Lappin Avenue is a priority!
 
-Councillor Ana Bailao: councillor_bailao@toronto.ca
-Marit Stiles, MPP: MStiles-CO@ndp.on.ca
-Luiza Sadowski, Metrolinx Community Engagement: Luiza.Sadowski@metrolinx.com 
+Councillor Ana Bailao: [councillor_bailao@toronto.ca](councillor_bailao@toronto.ca)
+Marit Stiles, MPP: [MStiles-CO@ndp.on.ca](MStiles-CO@ndp.on.ca)
+Luiza Sadowski, Metrolinx Community Engagement: [Luiza.Sadowski@metrolinx.com](Luiza.Sadowski@metrolinx.com) 
 
 Email template to use and edit!
 

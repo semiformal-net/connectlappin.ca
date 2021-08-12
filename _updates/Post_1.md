@@ -1,11 +1,9 @@
 ---
-title: "First Post"
+title: "First Update from Metrolinx"
 date: 2021-08-12T12:33:46+10:00
 featured: true
 weight: 1
 ---
-
-# Update 1 from Metrolinx
 
 We reached out to Metrolinx to understand when the decision was made to remove the pedestrian crossing at Lappin Avenue and Antler Avenue from the project. Stefany Sadnyk from Community Engagement claimed that “this fact has been clearly articulated in plans for the Greenway project dating back several years.”
 

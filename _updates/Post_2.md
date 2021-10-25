@@ -14,10 +14,12 @@ How can a fenced off multi-use trail be a catalyst for anything if no one can ac
 At one point, Metrolinx proposed a market and public square at Wallace Avenue, across from Halo Brewery and Neon Cafe. Now that area is blocked by a large metal fence.
 
 <a href="https://imgur.com/R0aJ68x"><img src="https://i.imgur.com/R0aJ68x.jpg" title="source: imgur.com" /></a>
-Early vision of Wallace Square at Wallace and train tracks (across from Halo Brewery and Cafe Neon)
+
+<b>Early vision of Wallace Square at Wallace and train tracks (across from Halo Brewery and Cafe Neon)</b>
 
 <a href="https://imgur.com/JSBBaDo"><img src="https://i.imgur.com/JSBBaDo.png" title="source: imgur.com" /></a>
-Current vision of Wallace Avenue and train tracks with multi-use trail under the bridge fenced off.
+
+<b>Current vision of Wallace Avenue and train tracks with multi-use trail under the bridge fenced off.</b>
 
 Metrolinx stakeholder relation's office provided the example of Henderson Brewery creating a connection to the West Toronto Rail Path. They have their fingers crossed that businesses along the Davenport Greenway will do the same thing, which will mean that Metrolinx can sit back and allow private business to invest in the public realm.
 

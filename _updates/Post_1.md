@@ -1,14 +1,35 @@
 ---
-title: "First Update from Metrolinx"
-date: 2021-08-12T12:33:46+10:00
+title: "Sign the petition"
+date: 2023-05-22T12:33:46+10:00
 featured: true
 weight: 1
 ---
 
-We reached out to Metrolinx to understand when the decision was made to remove the pedestrian crossing at Lappin Avenue and Antler Avenue from the project. Stefany Sadnyk from Community Engagement claimed that “this fact has been clearly articulated in plans for the Greenway project dating back several years.”
+<b>Create a walking path to allow access to Campbell Park and Wallace Emerson Community Centre</b>
 
-We’ve shared the news with many Junction Triangle and Wallace-Emerson residents who were surprised to learn this news, which means that the removal of the crossing may have been included in updated construction drawings, but Metrolinx did not clearly communicate these plans to the community. In fact, members of Options for Davenport, the original group to advocate for community benefits from the Davenport Diamond project, only learned that the pedestrian crossing was removed a few months ago at one of the first virtual open houses about the Davenport Greenway project.
+<a href="https://www.change.org/connectlappin">https://www.change.org/connectlappin</a>
 
-[Image of map showing star at Antler Avenue]
+[![image-title-here](https://i.imgur.com/ZmtbfkQ.jpeg){:width="100%"}](https://i.imgur.com/ZmtbfkQ.jpeg)
 
-It’s clear that Metrolinx made this decision during the pandemic (the earliest evidence of the removal of the pedestrian crossing is seen in consultation materials in 2020 where there is a star showing an access from Antler Street but not from Lappin Avenue), and well after meaningful engagement with the community ended in 2017/2018. 
+When Metrolinx completed the new, elevated platform for the Barrie GO line, they could have created a path underneath connecting Lappin and Antler. Instead, there’s a fence blocking the way. This is no good!
+
+<b>We want the City of Toronto to create a walking path under the elevated GO line between Antler and Lappin.</b>
+
+This will allow neighbors on the west side of the tracks, who live on Antler, Symington and Campbell to get to the Wallace-Emerson Community Centre faster and more safely. It’ll also allow neighbors on the east side of the tracks, who live on Lappin, Ward, and St. Clarens to get Campbell Park and local schools faster and more safely.
+
+You’d think this would be a quick fix!
+
+<b>When Metrolinx created the elevated train line, they promised they would create this path.</b> But they’ve reneged on that promise and we can’t trust them to do what’s best for our neighborhood.
+
+<b>The city has the power to work with the land owner to create a path.<b> Doing so is an inexpensive way to allow residents on the east side of the tracks to have access to more park space and to allow residents on the west side faster access to the childcare, fitness and community spaces at the Wallace Emerson Community Centre, and access to transit on Lansdowne.
+
+This change is good for businesses, for the city, and for residents. <b>Join us in calling on Councillor Alexandra Bravo to pass a motion at community council to create a path between Lappin and Antler.</b>
+
+It’s a quick change that’s good for us all!
+
+Sign the petition here: <a href="https://www.change.org/connectlappin">https://www.change.org/connectlappin</a>
+
+[![image-title-here](https://i.imgur.com/uzJHXac.jpeg){:width="100%"}](https://i.imgur.com/uzJHXac.jpeg)
+[![image-title-here](https://i.imgur.com/v7Fal7b.jpeg){:width="100%"}](https://i.imgur.com/v7Fal7b.jpeg)
+[![image-title-here](https://i.imgur.com/WUUujAE.png){:width="100%"}](https://i.imgur.com/WUUujAE.png)
+[![image-title-here](https://i.imgur.com/VXOSlwf.png){:width="100%"}](https://i.imgur.com/VXOSlwf.png)

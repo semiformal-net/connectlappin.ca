@@ -10,6 +10,8 @@ show_call_box: false
 
 # Connect Lappin
 
+Please [Sign our petition](/updates/Post_1/)
+
 A community site to advocate for a pedestrian link between Lappin Avenue and Antler Street under the currently under construction GO Rail bridge ([Davenport Diamond Guideway](http://www.metrolinx.com/en/greaterregion/projects/davenport-diamond.aspx)). This connection will bring together the neighbourhoods of Wallace-Emerson and the Junction Triangle, making it easier for residents to access:
 
 - Perth Avenue Junior School and St Luigi Catholic School

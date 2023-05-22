@@ -9,7 +9,7 @@ weight: 1
 
 <a href="https://www.change.org/connectlappin">https://www.change.org/connectlappin</a>
 
-![image-title-here](https://i.imgur.com/ZmtbfkQ.jpeg){:width="70%"}
+[![image-title-here](https://i.imgur.com/ZmtbfkQ.jpeg){:width="70%"}](https://i.imgur.com/ZmtbfkQ.jpeg)
 
 When Metrolinx completed the new, elevated platform for the Barrie GO line, they could have created a path underneath connecting Lappin and Antler. Instead, there’s a fence blocking the way. This is no good!
 
@@ -29,7 +29,7 @@ It’s a quick change that’s good for us all!
 
 Sign the petition here: <a href="https://www.change.org/connectlappin">https://www.change.org/connectlappin</a>
 
-![image-title-here](https://i.imgur.com/uzJHXac.jpeg){:width="70%"}
-![image-title-here](https://i.imgur.com/v7Fal7b.jpeg){:width="70%"}
-![image-title-here](https://i.imgur.com/WUUujAE.png){:width="70%"}
-![image-title-here](https://i.imgur.com/VXOSlwf.png){:width="70%"}
+[![image-title-here](https://i.imgur.com/uzJHXac.jpeg){:width="70%"}](https://i.imgur.com/uzJHXac.jpeg)
+[![image-title-here](https://i.imgur.com/v7Fal7b.jpeg){:width="70%"}](https://i.imgur.com/v7Fal7b.jpeg)
+[![image-title-here](https://i.imgur.com/WUUujAE.png){:width="70%"}](https://i.imgur.com/WUUujAE.png)
+[![image-title-here](https://i.imgur.com/VXOSlwf.png){:width="70%"}](https://i.imgur.com/VXOSlwf.png)

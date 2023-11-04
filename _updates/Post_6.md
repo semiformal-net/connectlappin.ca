@@ -3,7 +3,7 @@ title: "Second statement from Alejandra Bravo"
 layout: page
 date: 2023-11-04T12:33:46+10:00
 featured: true
-weight: 1
+weight: 2
 ---
 
 City Councillor Alejandra Bravo shared the following update on the Antler-Lappin connection:

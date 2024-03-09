@@ -1,0 +1,12 @@
+name: deploy-preview
+run-name: ${{ github.actor }} deployed a preview page
+on: [push]
+jobs:
+  deploy-preview:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy PR Preview
+        # You may pin to the exact commit or the version.
+        # uses: rossjrw/pr-preview-action@f31d5aa7b364955ea86228b9dcd346dc3f29c408
+        uses: rossjrw/pr-preview-action@v1.4.7
+

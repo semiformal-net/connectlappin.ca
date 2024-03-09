@@ -20,4 +20,3 @@ jobs:
         uses: rossjrw/pr-preview-action@v1.4.7
         with:
           preview_branch: main
-

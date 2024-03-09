@@ -1,6 +1,11 @@
 name: deploy-preview
 run-name: ${{ github.actor }} deployed a preview page
-on: [push]
+on: 
+  pull_request:
+    # Sequence of patterns matched against refs/heads
+      branches:
+        - main
+
 jobs:
   deploy-preview:
     runs-on: ubuntu-latest

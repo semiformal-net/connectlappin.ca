@@ -19,4 +19,6 @@ jobs:
         # You may pin to the exact commit or the version.
         # uses: rossjrw/pr-preview-action@f31d5aa7b364955ea86228b9dcd346dc3f29c408
         uses: rossjrw/pr-preview-action@v1.4.7
+        with:
+          preview_branch: main
 

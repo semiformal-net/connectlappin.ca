@@ -1,17 +1,18 @@
 ---
-title: "Sign the petition"
+title: Earth Day Cleanup!
 layout: page
-date: 2023-05-22T12:33:46+10:00
+description: A community advocacy site to connect Lappin and Antler streets beneath a planned GO train underpass.
 featured: true
-weight: 1
 ---
 
-<b>Create a walking path to allow access to Campbell Park and Wallace Emerson Community Centre</b>
+# Earth Day Lappin-Antler Spring Clean Up
 
-<a href="https://www.change.org/connectlappin">https://www.change.org/connectlappin</a>
+[![image-title-here](/images/illustrations/clean-up-earth-day-2024.svg){:width="100%"}](/images/illustrations/clean-up-earth-day-2024.svg)
 
-[![image-title-here](/images/illustrations/lappin01.jpg){:width="100%"}](/images/illustrations/lappin01.jpg)
+Come join the Lappin-Antler Spring Cleanup this Earth Day, Sunday April 21st – Register [here](https://www.eventbrite.com/e/lappin-antler-spring-cleanup-tickets-870611511467?aff=oddtdtcreator)!
 
-When Metrolinx completed the new, elevated platform for the Barrie GO line, they could have created a path underneath connecting Lappin and Antler. Instead, there’s a fence blocking the way. This is no good!
+We'll meet at the [corner of Ward & Lappin](https://www.eventbrite.com/e/lappin-antler-spring-cleanup-tickets-870611511467?aff=oddtdtcreator) at 1pm and make our way to [Campbell Park](https://www.eventbrite.com/e/lappin-antler-spring-cleanup-tickets-870611511467?aff=oddtdtcreator) for some hot drinks. Please bring gloves and garbage bags if you have them, and we'll have some extras on hand.
 
-<b>We want the City of Toronto to create a walking path under the elevated GO line between Antler and Lappin.</b>
+If the cleanup part is not for you, please meet us at Campbell Park around 2. We will share some updates on the Lappin-Anter Path campaign and other related neighbourhood projects.
+
+Can't wait to see you there!

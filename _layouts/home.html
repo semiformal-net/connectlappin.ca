@@ -26,6 +26,7 @@ bodyClass: "page-home"
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
       {% for update in site.updates %}
+      {% if update.featured %}
       <div class="col-12 col-md-4 mb-1">
         <div class="service service-summary">
           <div class="service-content">
@@ -36,6 +37,7 @@ bodyClass: "page-home"
           </div>
         </div>
       </div>
+      {% endif %}
       {% endfor %}
     </div>
 
